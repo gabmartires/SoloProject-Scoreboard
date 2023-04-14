@@ -8,21 +8,20 @@
 - [My Process](#my-process)
   - [Languages and Tools](#languages-and-tools)
   - [Built With](#built-with)
-  - [What I Learnt](#what-i-learnt)
-  - [Useful Resources](#useful-resources)
-- [About Me](#author)
+  - [What I Learnt](#my-js-jurney)  
+- [My Projects](#my-projects)
 
 ## Overview
 
 ### Screenshots
 
-#### Mobile
-
-![](Images/Solo-Project-Basketball-Scoreboard-Mobile.png)
-
 #### Desktop
 
-![](Images/Solo-Project-Basketball-Scoreboard-Desktop.png)
+![Scoreboard Desktop view](https://github.com/gabmartires/SoloProject-Scoreboard/raw/master/Solo-Project-Basketball-Scoreboard-Desktop.png)
+
+#### Mobile
+
+![Scoreboard Mobile View](https://github.com/gabmartires/SoloProject-Scoreboard/raw/master/Solo-Project-Basketball-Scoreboard-Mobile.png)
 
 ### Links
 
@@ -50,5 +49,5 @@
 - Variables and Element by ID method
 - How to use TextDocument
 
-### Author - About Me
+### My Projects
 - GitHub [GabMartires](https://github.com/gabmartires)
