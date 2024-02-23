@@ -12,7 +12,7 @@
 - [My Projects](#my-projects)
 
 ## Overview
-This is my first Solo Project from Scrimba! I believe the task is to create a scoreboard that outputs scores by clicking the +1 +2 +3 buttons. Not sure if it was required but I added a foul counter as well. The reset button clears the whole board at once. I built it from scratch but I'm very new to JS and GitHub so please share with me anything that might be out of place. Any input is appreciated and Happy Coding!
+This is my first Solo Project from Scrimba! The task is to create a scoreboard that outputs scores by clicking the +1 +2 +3 buttons. I added a fouls button for extra credit.Also the reset button clears the whole board at once. I built it from scratch but I'm very new to JS and GitHub so please share with me anything that might be out of place. Any input is appreciated and Happy Coding!
 ### Screenshots
 
 #### Desktop
