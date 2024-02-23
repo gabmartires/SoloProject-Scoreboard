@@ -17,11 +17,11 @@ This is my first Solo Project from Scrimba! I believe the task is to create a sc
 
 #### Desktop
 
-![Scoreboard Desktop view](https://github.com/gabmartires/SoloProject-Scoreboard/raw/master/Solo-Project-Basketball-Scoreboard-Desktop.png)
+![Scoreboard Empty View](https://github.com/gabmartires/SoloProject-Scoreboard/raw/master/Solo-Project-Basketball-Scoreboard-Desktop.png)
 
 #### Mobile
 
-![Scoreboard Mobile View](https://github.com/gabmartires/SoloProject-Scoreboard/raw/master/Solo-Project-Basketball-Scoreboard-Mobile.png)
+![Scoreboard Working View](https://github.com/gabmartires/SoloProject-Scoreboard/raw/master/Solo-Project-Basketball-Scoreboard-Mobile.png)
 
 ### Links
 
