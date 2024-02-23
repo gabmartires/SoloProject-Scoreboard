@@ -1,0 +1,164 @@
+/******************************************
+Author: Gabriel Martires
+Scrimba: Basketball Scoreboard Solo Project
+*******************************************/
+@font-face { font-family: CursedTimer; src: url('fonts/CursedTimerUlil-Aznm.ttf'); }
+
+body {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background: #D2D8EE;
+background-size: cover;
+height: 100vh;
+margin-top:100px;
+min-width: 300px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 20px 0px 0px 0px;
+}
+
+h2 { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+h3 {
+    font-family: CursedTimer;
+    font-style: normal;   
+    font-size: 100px;
+    color: #F94F6D;  
+    margin: 0px;    
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    display: inline-block;    
+    color: #fff;    
+    margin: 5px;
+}
+
+h5 {
+    font-family: CursedTimer;
+    font-style: normal;   
+    font-size: 60px;
+    color:#F94F6D;    
+    margin: -15px;  
+}
+
+.main-container{
+    margin: auto;
+    text-align: center;
+    max-width: 575px;   
+}
+
+.scoreboard {
+    margin: auto;
+    background: #1B244A;
+    border: #9AABD8 solid 2px;
+    border-radius: 3px;
+    padding: 0px 10px 40px 10px;   
+}
+
+.flex-container {    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex-child {
+    flex: 1 200px;
+}  
+
+.scores {
+    background-color: black;
+    border: #9AABD8 solid 2px;
+    border-radius: 5px;
+    margin: auto;
+    padding: 20px 20px 0px 20px;    
+    width: 155px; 
+    height: 120px     
+}
+
+.fouls {
+    background-color: black;
+    border: #9AABD8 solid 2px;
+    border-radius: 5px;
+    width: 80px;
+    margin: 30px auto 0px auto;
+    padding: 20px 10px 10px 10px;            
+}
+
+.add-foul-btn {
+    font-family: CursedTimer;
+    font-size: 1.2em;
+    color: #fff;
+    text-transform: uppercase;
+    border: #9AABD8 solid 2px;
+    border-radius: 5px;
+    background-color: #1B244A;
+    display:inline-block;
+    margin: 15px auto 0px auto;
+    padding: 10px 10px;
+}
+
+.add-foul-btn:hover {
+    color:#fff;
+    background-color: #2B3978;
+}
+
+.reset-score {
+    width: 100%;    
+}
+
+#reset-btn { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    border: #9AABD8 solid 2px;
+    border-radius: 5px;
+    background-color: #1B244A;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding: 1em;   
+}
+
+#reset-btn:hover {
+   color:#fff;
+   background-color: #2B3978;
+}
+
+.points {
+    height: 50px;
+    padding-top: 0px;
+}
+
+.add-point {
+    font-family: CursedTimer;
+    font-size: 1.2em;
+    color: #fff;
+    border: #9AABD8 solid 2px;
+    border-radius: 5px;
+    background-color: #1B244A;
+    padding: .7em;
+    margin: 15px 5px;
+    font-weight: 400;
+}
+
+.add-point:hover {
+   color:#fff;
+   background-color: #2B3978;
+}
