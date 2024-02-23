@@ -25,7 +25,7 @@ This is my first Solo Project from Scrimba! The task is to create a scoreboard t
 
 ### Links
 
-- 🔗 [Live](https://scrimba-basketballscoreboard.netlify.app)
+- 🔗 [Live](https://scrimba-gm-scoreboard.netlify.app/)
 
 ## My process
 
