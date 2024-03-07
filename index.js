@@ -24,7 +24,7 @@ function addGuestPoints(guestPoints) {
 
 let foulsHome = document.getElementById("foul-homeEl");
 let foulsGuest = document.getElementById("foul-guestEl");
-let addFoulHome= 0;
+let addFoulHome = 0;
 let addFoulGuest = 0;
 
 function foulHome(newHomeFoul) {
