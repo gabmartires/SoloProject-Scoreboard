@@ -36,14 +36,14 @@ This is my first Solo Project from Scrimba! The task is to create a scoreboard t
 - JavaScript
 - VS Code
 
-### Built With 
+### Built With 💻
 
 - Semantic HTML5 Markup
 - Custom CSS Properties
 - CSS Flexbox
 - JavaScript
 
-### My JS Jurney 💻
+### My JS Jurney 
 
 - Adding click actions to buttons
 - Variables and Element by ID method
