@@ -15,17 +15,17 @@
 This is my first Solo Project from Scrimba! The task is to create a scoreboard that outputs scores by clicking the +1 +2 +3 buttons. I added a fouls button for extra credit.Also the reset button clears the whole board at once. I built it from scratch but I'm very new to JS and GitHub so please share with me anything that might be out of place. Any input is appreciated and Happy Coding!
 ### Screenshots
 
-#### Desktop
+#### Desktop 📸
 
 ![Scoreboard Empty View](https://raw.githubusercontent.com/gabmartires/SoloProject-Scoreboard/home/images/empty-state.png)
 
-#### Mobile
+#### Mobile 📸
 
 ![Scoreboard Working View](https://raw.githubusercontent.com/gabmartires/SoloProject-Scoreboard/home/images/working-state.png)
 
 ### Links
 
-- 🔗 [Live](https://scrimba-gm-scoreboard.netlify.app/)
+- 🌍 [Live](https://scrimba-gm-scoreboard.netlify.app/)
 
 ## My process
 
@@ -36,18 +36,18 @@ This is my first Solo Project from Scrimba! The task is to create a scoreboard t
 - JavaScript
 - VS Code
 
-### Built With
+### Built With 💻
 
 - Semantic HTML5 Markup
 - Custom CSS Properties
 - CSS Flexbox
 - JavaScript
 
-### My JS Jurney
+### My JS Jurney 
 
 - Adding click actions to buttons
 - Variables and Element by ID method
 - How to use TextDocument
 
 ### My Projects
-- GitHub [GabMartires](https://github.com/gabmartires)
+- 👦🏽 GitHub [GabMartires](https://github.com/gabmartires)
